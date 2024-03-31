@@ -1,2 +1,3 @@
 # Excel-Project
 Complete Excel project on bike sales dataset.
+Explore the world of bike sales with this comprehensive Excel project. Dive into data cleaning techniques to ensure accurate analysis, then leverage pivot tables to extract meaningful insights. This project showcases proficiency in data manipulation, visualization, and dashboard creation. Uncover trends, analyze sales performance, and make informed decisions with this meticulously crafted Excel project. Perfect for enthusiasts and professionals alike, it offers a practical demonstration of data handling skills in a real-world context.
